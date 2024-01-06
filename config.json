@@ -1,13 +1,13 @@
 {
-  "TOKEN": "توكن_البوت",
-  "ticketCategoryID": "ايدي_الكاتاجوري",
+  "TOKEN": "MTE4MzY2MTc4ODA1MTU0NjI1Mg.GXzYna.rCycT8m0dcd96UXRaJnQZ9EHFXwBi_PyQE3YJc",
+  "ticketCategoryID": "1192434726120726609",
   "ticketNumber": 2,
-  "BACKGROUND": "صورة_الباجراوند",
+  "BACKGROUND": "https://media.discordapp.net/attachments/1182580646443483166/1192968746327871508/111-10-2.png?ex=65ab01b9&is=65988cb9&hm=53c5dc4c5a929ebc286a0875c4e3bf6f4dd987f083266f0f7c1d37a0678b128c&=&format=webp&quality=lossless&width=1166&height=250",
   "SECTIONS": [
     {
-      "name": "اسم_القسم",
-      "roleID": "ايدي_الرتبة",
-      "image": "صورة_القسم"
+      "name": "التكت",
+      "roleID": "1192434724698853479",
+      "image": "https://media.discordapp.net/attachments/1182580646443483166/1192968746327871508/111-10-2.png?ex=65ab01b9&is=65988cb9&hm=53c5dc4c5a929ebc286a0875c4e3bf6f4dd987f083266f0f7c1d37a0678b128c&=&format=webp&quality=lossless&width=1166&height=250"
     }
   ]
 }
