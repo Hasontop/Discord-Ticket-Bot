@@ -59,8 +59,8 @@ client.once("ready", async () => {
     body: commands,
   });
   console.log(`Bot is online! ${client.user.username}`);
-  console.log("Code by Wick Studio");
-  console.log("discord.gg/wicks");
+  console.log("Code by 𝐋𝐢𝐠𝐡𝐭 𝐒𝐓𝐔𝐃𝐈𝐎");
+  console.log("discord.gg/CedSsuk2cM");
 });
 
 client.login(process.env.TOKEN);
